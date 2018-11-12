@@ -22,22 +22,7 @@ If you manage proto files in a git repository, what will you do? Most remote ser
 ### go get
 
 ```bash
-$ go get github.com/stormcat24/protodep
-```
-
-### from binary
-
-Support as follows:
-
-* protodep_darwin_amd64.tar.gz
-* protodep_linux_386.tar.gz
-* protodep_linux_amd64.tar.gz
-* protodep_linux_arm.tar.gz
-* protodep_linux_arm64.tar.gz
-
-```bash
-$ wget https://github.com/stormcat24/protodep/releases/download/0.0.1/protodep_darwin_amd64.tar.gz
-$ cp protodep /usr/local/bin/
+$ go get -u sgithub.com/Aarabika/protodep
 ```
 
 ## Usage
